@@ -103,9 +103,19 @@ Pilares:
 - Sprint review: verifica increment e alinhas expectativas com stakeholders
 - Sprint retrospective: discussão sobre a sprint para aprendizado e melhoras
 
-## ExtremeProgramming (XP)
+## Extreme Programming (XP)
 
+Objetivo principal: fazer ciclos de entregas rápidos, contínuos e incrementais, para atingir os resultados esperados pelo cliente.
 
+Ciclo XP:
+- PLANEJA
+- FAZ
+- TESTA / MENSURA
+- MELHORA / INCREMENTA
+
+Características "especiais":
+- Testes
+- Pair Programming
 
 ## Kanban
 
