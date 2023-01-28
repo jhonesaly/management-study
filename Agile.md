@@ -70,9 +70,11 @@ melhoria contínua
 
 # Métodos e ferramentas ágeis
 
-## Framework Scrum
+## SCRUM
 
 Scrum é um framework leve que ajuda pessoas,times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos
+
+### SCRUM Base
 
 Base:
 
@@ -81,12 +83,29 @@ Base:
 
 Pilares:
 
-- Transparência
-- 
-- 
+- Transparência: permite que todos os ângulos de qualquer processo Scrum sejam observados por qualquer pessoa.
+- Inspeção: inspeção é a arte de pensar, no sentido de aplicar uma visão crítica sobre o que está acontecendo.É detectar variações ou problemas potencialmente indesejáveis.
+- Adaptação: acontece quando o Time Scrum aprende através da transparência e da inspeção e,em seguida, adaptam o processo ao fazerem melhorias no trabalho que está sendo realizado,evitando,também,novos desvios.
+
+### Framework SCRUM
+
+<https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/screen_shot_2021-01-10_at_9.14.17_am.png>
+
+- Product backlog: lista ordenada de todas as características do produto
+- Evento arcabouço: evento que engloba outros eventos (sprint)
+- Sprint planning: primeiro evento, onde se planeja o sprint e se cria o sprint backlog
+- Sprint backlog: lista menor de tarefas que serão atacadas durante a sprint
+- Scrum team: equipe que executa o sprint
+- Product owner: responsável pelo product backlog, com visão mais voltada para o product
+- Scrum master: especialista em SCRUM que garante que a equipe esteja alinhada com o framework
+- Daily SCRUM: reunião diária de 15min para calibrar a equipe
+- Increment: entrega de produto que será incrementada ao produto final
+- Sprint review: verifica increment e alinhas expectativas com stakeholders
+- Sprint retrospective: discussão sobre a sprint para aprendizado e melhoras
+
+## ExtremeProgramming (XP)
 
 
-## ExtremeProgramming(XP)
 
 ## Kanban
 
