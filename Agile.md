@@ -1,9 +1,5 @@
 # Agilidade
 
-eficiente/flexível > velocidade
-Validar o caminho
-melhoria contínua
-
 ## 4 valores
 
 - Indivíduos e interações > processos e ferramentas
@@ -26,35 +22,36 @@ melhoria contínua
 - Times auto-organizáveis
 - Reflexão periódica sobre como se tornar mais eficaz
  
- ## Time ágil
+## Time ágil
 
- - Alinhado com stakeholders
- - Auto-organizado
- - Multidisciplinar
- - Entrega de valor contínua
- - Melhoria contínua
- - Métricas e metas claras
- - União
+- Alinhado com stakeholders
+- Auto-organizado
+- Multidisciplinar
+- Entrega de valor contínua
+- Melhoria contínua
+- Métricas e metas claras
+- União
 
- ## Importância
+## Importância
 
- - Inovação
- - Entregas rápidas
- - Eficiência
+- Inovação
+- Entregas rápidas
+- Eficiência
 
- ## Características do mundo moderno
+## Características do mundo moderno
 
- - **V**olatile (volátil)
- - **U**ncertain (incerto)
- - **C**omplex (complexo)
- - **A**mbiguous (ambíguo)
+- **V**olatile (volátil)
+- **U**ncertain (incerto)
+- **C**omplex (complexo)
+- **A**mbiguous (ambíguo)
 
- # Gestão do projetos
+------
+# Gestão do projetos
 
- ## Projeto x Processo
+## Projeto x Processo
 
- - Projeto: fim, exclusivo
- - Processo: contínuo, replicável
+- Projeto: fim, exclusivo
+- Processo: contínuo, replicável
 
 ## Waterfall x Agile
 
@@ -68,7 +65,8 @@ melhoria contínua
 - Voltada ao aprendizado
 - Entrega Contínua de Valor
 
-# Métodos e ferramentas ágeis
+------
+# Métodos ágeis
 
 ## SCRUM
 
@@ -89,7 +87,7 @@ Pilares:
 
 ### Framework SCRUM
 
-<https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/screen_shot_2021-01-10_at_9.14.17_am.png>
+![SCRUM Framework](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/screen_shot_2021-01-10_at_9.14.17_am.png)
 
 - Product backlog: lista ordenada de todas as características do produto
 - Evento arcabouço: evento que engloba outros eventos (sprint)
@@ -119,4 +117,19 @@ Características "especiais":
 
 ## Kanban
 
+É um método para definir, gerenciar e melhorar serviços que entregam trabalho de conhecimento, como serviços profissionais, atividades criativas e o design de produtos físicos e de software.
+
+![kanban](https://uploads-ssl.webflow.com/5e1cab8214cecfc49d37df0a/5fbfa66a45d16c2bce4dc486_GIFMaker.org_Yi7HrN.gif)
+
+Colunas básicas Kanban (flexível):
+
+- To Do: aquilo que deve ser feito
+- Doing: aquilo sendo feito
+- Done: aquilo que foi feito
+
 ## OKR
+
+
+
+------
+# Ferramentas Ágeis
