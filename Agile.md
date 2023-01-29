@@ -151,3 +151,15 @@ Características:
 ------
 # Ferramentas Ágeis
 
+Freemium:
+
+- Trello
+- Notion
+- Miro
+- Moday
+- EasyRetro
+- Jira
+- Clickup
+- Pipefy
+- Asana
+
