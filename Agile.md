@@ -117,7 +117,7 @@ Características "especiais":
 
 ## Kanban
 
-É um método para definir, gerenciar e melhorar serviços que entregam trabalho de conhecimento, como serviços profissionais, atividades criativas e o design de produtos físicos e de software.
+Kanban (palavra japonesa que significa "placa") é um método para definir, gerenciar e melhorar serviços que entregam trabalho de conhecimento, como serviços profissionais, atividades criativas e o design de produtos físicos e de software.
 
 ![kanban](https://uploads-ssl.webflow.com/5e1cab8214cecfc49d37df0a/5fbfa66a45d16c2bce4dc486_GIFMaker.org_Yi7HrN.gif)
 
@@ -129,7 +129,25 @@ Colunas básicas Kanban (flexível):
 
 ## OKR
 
+O Objectives Key Results (OKR) é um método de gestão ágil que foi criado pelo ex-CEO da Intel Andrew Grove e tem como objetivo simplificar a forma de encarar os chamados os principais objetivos estratégicos de uma empresa.
 
+Objectives: são descrições qualitativas que apontam a direção que deverá ser seguida pela empresa.
+
+características:
+
+- Claro
+- Inspirador
+- Desafiador
+- Alinhado com a missão do negócio
+
+Key Results: resultados-chave, também chamados apenas de KRs, são as metas que determinam o atingimento do objetivo na metodologia OKR.
+
+Características:
+
+- Baseadas em indicadores-chave de desempenho (KPIs)
+- Quantitativas
+- SMART: Específicas, Mensuráveis, Atingíveis, Relevantes e Temporais
 
 ------
 # Ferramentas Ágeis
+
